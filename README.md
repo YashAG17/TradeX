@@ -1,2 +1,1 @@
 # TradeX
-# TradeX
