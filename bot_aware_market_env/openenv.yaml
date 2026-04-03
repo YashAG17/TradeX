@@ -1,0 +1,4 @@
+name: bot_aware_market_env
+version: "1.0.0"
+description: Bot-aware Market Surveillance in Simulated AMM Trading
+entrypoint: app.env:MarketSurveillanceEnv
